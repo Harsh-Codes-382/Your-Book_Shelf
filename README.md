@@ -19,4 +19,4 @@ Welcome to the Book Store Website Frontend project! This project focuses on crea
 To view the website locally, follow these steps:
 
 1. Clone the repository:
-  
+  git clone https://github.com/Harsh-Codes-382/Your-Book_Shelf.git
